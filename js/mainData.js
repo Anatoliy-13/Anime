@@ -44,7 +44,6 @@ const mainData = () => {
               </div>
       `
       );
-    
       list.forEach((item) => {
         const tagsBlock = document.createElement("ul");
 
