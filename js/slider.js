@@ -19,10 +19,4 @@ const slider = () => {
 
 slider();
 
-/**https://www.youtube.com/watch?v=GM-h07HbeBk&t=161s */
 
-/**https://www.youtube.com/watch?v=tE3M7Gi_gbA */
-
-/**https://www.youtube.com/watch?v=0LxS-NBnanU */
-
-/**https://www.youtube.com/watch?v=jfUTaFKOJBw */
