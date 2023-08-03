@@ -31,7 +31,7 @@ const modal = () => {
       wrapper.insertAdjacentHTML(
         "afterbegin",
         `
-        <a  class="p-2 text-white" href="/anime-details.html?itemId=${item.id}">${item.title}</a>
+        <a  class="p-2 text-white" href="/Anime/anime-details.html?itemId=${item.id}">${item.title}</a>
     `
       );
       console.log(item);
