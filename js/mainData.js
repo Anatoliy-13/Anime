@@ -44,7 +44,7 @@ const mainData = () => {
               </div>
       `
       );
-      //https://glo-academy.org/pl/teach/control/lesson/view?id=297064838&editMode=0
+    
       list.forEach((item) => {
         const tagsBlock = document.createElement("ul");
 
@@ -69,7 +69,7 @@ const mainData = () => {
                     <div class="product__item__text">
                       ${tagsBlock.outerHTML}
                       <h5>
-                        <a href="/anime-details.html?itemId=${item.id}"
+                        <a href="/Anime/anime-details.html?itemId=${item.id}"
                           >${item.title}</a
                         >
                       </h5>
